@@ -5,4 +5,4 @@ You can run it in Google Colab!
 
 https://colab.research.google.com/drive/1tfSX9LK_22Pxb2FSwsdRNboAVKPYAiye?usp=sharing
 
-References: An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani and Evaluating Machine Learning Models by Alice Zheng
+References: An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani and Evaluating Machine Learning Models by Alice Zheng, Tufts University - Machine Learning Lecture Notes by Martin Allen
